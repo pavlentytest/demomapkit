@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
      * Replace "your_api_key" with a valid developer key.
      * You can get it at the https://developer.tech.yandex.ru/ website.
      */
-    private final String MAPKIT_API_KEY = "123123";
+    private final String MAPKIT_API_KEY = "56536952-89db-4660-8a11-275b4a18135b";
     private final Point CAMERA_TARGET = new Point(55.554047, 37.421903);
     private final Point ANIMATED_RECTANGLE_CENTER = new Point(55.552831, 37.418256);
     private final Point TRIANGLE_CENTER = new Point(55.554668, 37.425251);

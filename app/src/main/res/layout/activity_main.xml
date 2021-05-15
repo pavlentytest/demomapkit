@@ -17,10 +17,11 @@
             android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@null"
             android:contentDescription="@string/todo"
-            android:src="@drawable/logo"
             android:scaleType="centerInside"
-            android:adjustViewBounds="true"/>
+            android:src="@drawable/logo" />
 
         <Space
             android:layout_width="92dp"
