@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mapkittest</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="footer">footer</string>
+    <string name="home">home</string>
+    <string name="contacts">contacts</string>
+    <string name="farrow"><![CDATA[>>]]></string>
+    <string name="farrow2"><![CDATA[>]]></string>
+    <string name="sarrow"><![CDATA[<<]]></string>
+    <string name="sarrow2"><![CDATA[<]]></string>
+</resources>
